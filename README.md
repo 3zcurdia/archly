@@ -1,4 +1,5 @@
 # Archly
+![build status](https://img.shields.io/github/actions/workflow/status/3zcurdia/archly/elixir)
 
 **TODO: Add description**
 
